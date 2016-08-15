@@ -1,0 +1,24 @@
+{
+  "name": "webpack-tutorial",
+  "version": "1.0.0",
+  "description": "my app walking through the webpack tutorial",
+  "main": "entry.js",
+  "scripts": {
+    "test": "''"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gh.leapfrogonline.com/cwalsh/webpack-tutorial.git"
+  },
+  "keywords": [
+    "angular",
+    "webpack"
+  ],
+  "author": "Christopher Walsh <cwalsh@leapfrogonline.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1"
+  }
+}
