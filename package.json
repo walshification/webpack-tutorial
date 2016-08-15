@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gh.leapfrogonline.com/cwalsh/webpack-tutorial.git"
+    "url": "https://github.com/walshification/webpack-tutorial"
   },
   "keywords": [
     "angular",
     "webpack"
   ],
-  "author": "Christopher Walsh <cwalsh@leapfrogonline.com>",
+  "author": "Christopher Walsh <walshification@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "css-loader": "^0.23.1",
